@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hungvu2000
+- 👋 Hi, I’m Hung Vu
 - 👀 I’m interested in Scala
 - 🌱 I’m currently learning Scala
 - 💞️ I’m looking to collaborate on ...
